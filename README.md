@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucassallesp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and NodeJS
-- 💞️ I’m looking to collaborate on sharing codes on that community 
+- 💞️ I’m looking to collaborate sharing codes on that community 
 - 📫 How to reach me: lucaspsalles@gmail.com or +55 27992612020
 
 <!---
